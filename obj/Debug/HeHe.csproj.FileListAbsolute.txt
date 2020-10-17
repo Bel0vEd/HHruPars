@@ -1,0 +1,14 @@
+c:\users\1\source\repos\HeHe\HeHe\bin\Debug\HeHe.exe.config
+c:\users\1\source\repos\HeHe\HeHe\bin\Debug\HeHe.exe
+c:\users\1\source\repos\HeHe\HeHe\bin\Debug\HeHe.pdb
+c:\users\1\source\repos\HeHe\HeHe\bin\Debug\EPPlus.dll
+c:\users\1\source\repos\HeHe\HeHe\bin\Debug\Newtonsoft.Json.dll
+c:\users\1\source\repos\HeHe\HeHe\bin\Debug\EPPlus.xml
+c:\users\1\source\repos\HeHe\HeHe\bin\Debug\Newtonsoft.Json.xml
+c:\users\1\source\repos\HeHe\HeHe\obj\Debug\HeHe.csprojResolveAssemblyReference.cache
+c:\users\1\source\repos\HeHe\HeHe\obj\Debug\HeHe.Form1.resources
+c:\users\1\source\repos\HeHe\HeHe\obj\Debug\HeHe.Properties.Resources.resources
+c:\users\1\source\repos\HeHe\HeHe\obj\Debug\HeHe.csproj.GenerateResource.Cache
+c:\users\1\source\repos\HeHe\HeHe\obj\Debug\HeHe.csproj.CoreCompileInputs.cache
+c:\users\1\source\repos\HeHe\HeHe\obj\Debug\HeHe.exe
+c:\users\1\source\repos\HeHe\HeHe\obj\Debug\HeHe.pdb
